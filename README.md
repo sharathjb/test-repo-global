@@ -1,3 +1,3 @@
 # test-repo-global
 
-Updated text
+Updated text - updated
